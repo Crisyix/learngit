@@ -1,5 +1,5 @@
 add test
 github test
 branch learn 2
-manage
-fixbug
+manage fix bug2
+fix bug
